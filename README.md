@@ -47,5 +47,3 @@ Admin Dashboard
 ![Screenshot 2024-07-27 163216](https://github.com/user-attachments/assets/bc310405-3025-4003-871b-176bbfb3bef9)
 
 
-
-![alt text](image.png)
